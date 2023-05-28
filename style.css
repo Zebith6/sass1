@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  border: 1px solid red;
+  justify-content: center;
+}
+body h1 {
+  color: green;
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+}
+body section {
+  display: flex;
+  flex-wrap: wrap;
+}
+body section .blue {
+  color: blue;
+}
+body section .red {
+  color: red;
+}
+body section article {
+  display: flex;
+  border: 1px solid green;
+  justify-content: center;
+  height: 100px;
+  width: 300px;
+}/*# sourceMappingURL=style.css.map */
